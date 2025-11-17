@@ -1,0 +1,59 @@
+- Чем var отличается от const ?
+- https://youtu.be/Y1SekvuZ3M4?t=657
+- Понятие замыкания и хоистинг всплытия ?
+- https://youtu.be/Y1SekvuZ3M4?t=727
+- Если вместо var написать let будет ли   иметь это значение или нет?
+- https://youtu.be/Y1SekvuZ3M4?t=834
+- Анонимные функции ?
+- https://youtu.be/Y1SekvuZ3M4?t=883
+- Функция Inwork ?
+- https://youtu.be/Y1SekvuZ3M4?t=928
+- Что такое хостинг?
+- https://youtu.be/Y1SekvuZ3M4?t=1018
+- map, reduce, filter ?
+- https://youtu.be/Y1SekvuZ3M4?t=1144
+- Различая между старым  JS и новым?
+- https://youtu.be/Y1SekvuZ3M4?t=1214
+- Чем отличаються стрелочные функции?
+- https://youtu.be/Y1SekvuZ3M4?t=1259
+- Что такое реакт и для чего он нужен?
+- https://youtu.be/Y1SekvuZ3M4?t=1324 (не ответил на видео но вопрос я выписал)
+- Какие есть популярные фреймворки?
+- https://youtu.be/Y1SekvuZ3M4?t=1348
+- Виртуальный ДОМ? (Дерево элементов)
+- https://youtu.be/Y1SekvuZ3M4?t=1372
+- Почему пишут на REACT ?
+- https://youtu.be/Y1SekvuZ3M4?t=1466
+-  Если пишешь на хуках какой классовый компонент все таки нужен?
+- https://youtu.be/Y1SekvuZ3M4?t=1609
+-  Компоненты жизненного цикла? И какие бывают хуки?
+- https://youtu.be/Y1SekvuZ3M4?t=1662
+- Что не надо писать в рендере?
+- https://youtu.be/Y1SekvuZ3M4?t=1799
+- Что такое имуизация?
+- https://youtu.be/Y1SekvuZ3M4?t=1855
+- Проблема прокс дриленга?
+- https://youtu.be/Y1SekvuZ3M4?t=1893
+- REACT контекст?
+- https://youtu.be/Y1SekvuZ3M4?t=1940
+- Зачем нужен хук ref ?
+- https://youtu.be/Y1SekvuZ3M4?t=1998
+- Где хорошо писать запросы  к серверу?
+- https://youtu.be/Y1SekvuZ3M4?t=2082
+- Что такое редакс?
+- https://youtu.be/Y1SekvuZ3M4?t=2143
+- Что такое store ?
+- https://youtu.be/Y1SekvuZ3M4?t=2238
+-  Что таоке экшен креэйтеры?
+- https://youtu.be/Y1SekvuZ3M4?t=2276
+- Где лучше всего делать запросы к backend?
+- https://youtu.be/Y1SekvuZ3M4?t=2296
+- Чем лучше мобекс?
+- https://youtu.be/Y1SekvuZ3M4?t=2326
+- Сайт рендеринг ?
+- https://youtu.be/Y1SekvuZ3M4?t=2658
+- Зачем нужен сервер сайт рендеринг?
+- https://youtu.be/Y1SekvuZ3M4?t=2701
+- Вопрос найти ошибку в коде?
+- https://youtu.be/Y1SekvuZ3M4?t=2781
+
