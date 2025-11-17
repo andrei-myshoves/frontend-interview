@@ -1,1 +1,32 @@
-# frontend-interview
+- Что будет при в битие url и нажатие enter?
+- https://youtu.be/hkrmyIecHR0?t=562
+- Какие атрибуты загрузки скриптов?
+- https://youtu.be/hkrmyIecHR0?t=657
+- Если у нас есть какойто файл стилей большой на 50 мегабайт пока он грузится заблокирует нам рендеринг?
+- https://youtu.be/hkrmyIecHR0?t=728
+- Корс что это такое ?
+- https://youtu.be/hkrmyIecHR0?t=800
+- Подход через токены?
+- https://youtu.be/hkrmyIecHR0?t=902
+- Вопрос про спецефичтность селекторов?
+- https://youtu.be/hkrmyIecHR0?t=1131
+- все про event loop ?
+- https://youtu.be/hkrmyIecHR0?t=1209
+- Что кроме промисов попадает к микрозадачам?
+- https://youtu.be/hkrmyIecHR0?t=1368
+- Что кроме промисов может туда еще попадать?
+- https://youtu.be/hkrmyIecHR0?t=1403
+- Применение функции debounce на практике?
+- https://youtu.be/hkrmyIecHR0?t=1447
+- Модифицированый пример чтобы помимо консоли появлялся Боб?
+- https://youtu.be/hkrmyIecHR0?t=1586
+- Задача №2
+- https://youtu.be/hkrmyIecHR0?t=1705
+-  Ревью ошибок и поправление?
+- https://youtu.be/hkrmyIecHR0?t=1960
+- Какие отличия типа эни от анкноу?
+- https://youtu.be/hkrmyIecHR0?t=2300
+- Какие стэйт менеджерами  приходилось работать?
+- https://youtu.be/hkrmyIecHR0?t=2404
+- Как следишь за частотой кода?
+- https://youtu.be/hkrmyIecHR0?t=2469
